@@ -11,7 +11,7 @@ $(document).ready(() => {
   const links = [
     {
       name: ' « steam »     ',
-      link: 'img0ingtokillmyself',
+      link: '76561198080998870',
     },
   ];
 
@@ -20,63 +20,63 @@ $(document).ready(() => {
 
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
     $('#marquee').append(`<a href="https://ogu.gg/xRisky" target="_BLANK"> « ogusers »     </a>`);
-    $('#marquee').append(`<a href="https://github.com/SheLovesh" target="_BLANK"> « github »     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/allive" target="_BLANK"> « discord »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/SheLovesM" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="roze.lol" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_BLANK"> « spotify »     </a>`);
     
     link = $('#marquee').children('a').last();
